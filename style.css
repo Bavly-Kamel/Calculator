@@ -45,3 +45,9 @@ body {
 .btn:hover {
     background-color: #ddd;
 }
+
+@media (max-width:797px) {
+    .btn:hover {
+        background-color: #f0f0f0;
+    }
+}
